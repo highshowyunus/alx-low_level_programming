@@ -2,7 +2,7 @@
 
 /**
  * rot13 - Encodes a string rot13.
- * @stri: The string to be encoded.
+ * @str: The string to be encoded.
  *
  * Return: A pointer to the endoded string.
  */
